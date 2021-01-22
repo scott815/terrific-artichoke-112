@@ -12,18 +12,13 @@
                 "style": "link"
             },
             {
-                "label": "Features",
+                "label": "One Pager",
                 "url": "/features",
                 "style": "link"
             },
             {
-                "label": "Pricing",
+                "label": "White paper",
                 "url": "/pricing",
-                "style": "link"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide",
                 "style": "link"
             },
             {
