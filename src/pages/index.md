@@ -60,7 +60,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: FEES AND BENCHMARK
+      - title: Fees and Benchmarks
         image: images/feature3.png
         image_alt: App user profile preview
         content: >
