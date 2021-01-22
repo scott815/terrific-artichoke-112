@@ -18,7 +18,7 @@ sections:
     title: Interested in learning more
     subtitle: This is an optional description for the call to action block.
     actions:
-      - label: Get Started
+      - label: Sin
         url: signup
         style: secondary
 template: landing
