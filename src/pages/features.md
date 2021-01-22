@@ -19,7 +19,7 @@ sections:
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Get Started
-        url: ''
+        url: Sign up
         style: secondary
 template: landing
 ---
