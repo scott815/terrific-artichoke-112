@@ -17,7 +17,7 @@ sections:
   - section_id: features
     type: section_features
     background: white
-    title: FUND INFORMATION
+    title: EXCLUSVITY IS PRIVACY
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
