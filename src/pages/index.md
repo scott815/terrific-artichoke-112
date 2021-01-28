@@ -18,9 +18,7 @@ sections:
     type: section_features
     background: white
     title: EXCLUSVITY IS PRIVACY
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: ''
     features:
       - title: Objective and Suitability
         image: images/feature1.png
