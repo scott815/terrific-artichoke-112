@@ -17,7 +17,7 @@ sections:
   - section_id: features
     type: section_features
     background: white
-    title: EXCLUSVITY IS PRIVACY
+    title: EXCLUSIVITY IS PRIVACY
     subtitle: ''
     features:
       - title: Objective and Suitability
