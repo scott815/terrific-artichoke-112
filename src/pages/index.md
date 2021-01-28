@@ -16,7 +16,7 @@ sections:
         style: primary
   - section_id: features
     type: section_features
-    background: gray
+    background: white
     title: EXCLUSIVITY IS PRIVACY
     subtitle: ''
     features:
